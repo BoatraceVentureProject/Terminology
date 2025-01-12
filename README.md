@@ -1,6 +1,6 @@
 # Terminology in the Boatrace Venture Project
 
-[![Build Status](https://github.com/BoatraceVentureProject/Terminology/workflows/tests/badge.svg)](https://github.com/BoatraceVentureProject/Terminology/actions?query=workflow%3Atests)
+[![Build Status](https://github.com/BoatraceVentureProject/Terminology/workflows/Tests/badge.svg)](https://github.com/BoatraceVentureProject/Terminology/actions?query=workflow%3Atests)
 [![codecov](https://codecov.io/gh/BoatraceVentureProject/Terminology/graph/badge.svg?token=QIPURI4UD9)](https://codecov.io/gh/BoatraceVentureProject/Terminology)
 [![Latest Stable Version](https://poser.pugx.org/bvp/terminology/v/stable)](https://packagist.org/packages/bvp/terminology)
 [![Latest Unstable Version](https://poser.pugx.org/bvp/terminology/v/unstable)](https://packagist.org/packages/bvp/terminology)
